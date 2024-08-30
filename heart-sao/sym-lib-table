@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "valentines-heart-punk-r1.2-rotated-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/valentines-heart-punk-r1.2-rotated-eagle-import.kicad_sym")(options "")(descr ""))
+)

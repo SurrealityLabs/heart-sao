@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "valentines-heart-punk-r1.2-rotated")(type "KiCad")(uri "$(KIPRJMOD)/heart-sao.pretty")(options "")(descr ""))
+)
